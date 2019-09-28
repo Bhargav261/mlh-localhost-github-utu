@@ -4,8 +4,6 @@ Lincoln, Pennsylvania
 
 Phoenix, Arizona
 
-Navsari, India
-
 Lake Hiawatha, New Jersey
 
 Denver, Colorado
@@ -148,8 +146,6 @@ Bharuch,India
 Ankleshwar,India
 Seoul, SouthKorea
 
-Navsari, India
-
 Goa, India
 
 Ena, India
@@ -157,3 +153,5 @@ Ena, India
 Bhavnagar, India
 
 Ena, India
+
+kutch, India
